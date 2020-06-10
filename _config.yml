@@ -28,7 +28,7 @@ twitter_username: ksimagin
 github_username:  rodnoy
 
 # Build settings
-theme: minima
+theme: minima #jekyll-theme-cayman #
 plugins:
   - jekyll-feed
 
