@@ -21,7 +21,7 @@
 title: Code pinches
 email: ksimagin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Going to write about everything, and I will try to write about swift.
+  Going to write about everything, and I will try to write about swift.
 baseurl: "/PinchCodeBlog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ksimagin
