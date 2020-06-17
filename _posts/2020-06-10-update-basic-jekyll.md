@@ -13,3 +13,6 @@ go to `_config.yml`and set there `baseurl: "/PinchCodeBlog"` !!!
     - `bundle update` -> sudo
     - `bundler install` -> sudo ?
     - `bundle exec jekyll serve`
+	
+	
+[how to create a blog from scratch](https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a)
